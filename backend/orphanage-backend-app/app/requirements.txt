@@ -1,0 +1,42 @@
+Flask
+mysql-connector-python
+werkzeug
+PyJWT
+
+
+run flask run
+
+
+1- database 
+
+2- backend
+
+3- db connection 
+
+4- api creation
+
+
+mysql -u root -p
+Enter Password
+SHOW DATABASES;
+CREATE DATABASE your_database_name;
+USE your_database_name;
+SHOW TABLES;
+DESCRIBE table_name;
+SELECT * FROM table_name;
+
+
+
+
+
+php artisan migrate
+php artisan db:seed
+
+
+
+
+# register prphanage data like license commercial record
+# orphanage adds donation data 
+# orphanage get adopters form submission data
+# orphanage add name of adopted child 
+
